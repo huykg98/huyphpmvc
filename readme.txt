@@ -1,4 +1,4 @@
-﻿
+﻿đây là version 2.0
 Ý nghĩa các folder như sau:
 
 	public: chứa các file public bên ngoài như js, css và template của ứng dụng
